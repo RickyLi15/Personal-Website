@@ -1,2 +1,2 @@
 # Personal-Website
-My Personal Website created using HTML and CSS
+My work-in-progress Personal Website created using HTML and CSS
